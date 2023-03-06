@@ -14,7 +14,7 @@ My personal website: [ekernik.com][website]
 [<img alt="ekernik | LinkedIn" src="https://img.shields.io/badge/-LINKEDIN-333333?style=for-the-badge&logo=Linkedin&logoColor=0e76a8" />][linkedin]
 <br/>
 
-or send me an email at ekernik@proton.me
+or send me an email at ekernik@pm.me
 
 <hr/>
 

@@ -1,5 +1,5 @@
-# Hi, I'm Nikita Ekern
-## I'm a Frontend Developer!
+# Nikita Ekern
+— Frontend Developer
 
 I specialize on React/Next.js projects
 

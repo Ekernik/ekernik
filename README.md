@@ -24,7 +24,7 @@ I build, automate, and maintain reliable Linux systems. After 5 years in full-st
 
 **OS & Virtualization:** Linux (RHEL, Ubuntu), Proxmox VE, MacOS  
 
-**Automation & Containers:** Ansible, Bash Scripting, Docker/Podman, GitHub Actions (CI/CD) 
+**Automation & Containers:** Terraform, Ansible, Bash Scripting, Docker/Podman, GitHub Actions (CI/CD) 
 
 **Networking & Security:** Nginx, TLS/Let’s Encrypt (Certbot), DNS, firewalling, Fail2ban  
 
@@ -60,8 +60,9 @@ Currently I'm Prepping for **RHCE** (focus: Ansible automation & networking) and
 
 ## Certifications
 
-- **Red Hat Certified System Administrator (RHCSA)** — Aug 2025  
-- **Red Hat Certified Engineer (RHCE)** — *scheduled Sep 2025*  
+- **Red Hat Certified System Administrator (RHCSA)** — Aug 2025
+- **CompTIA Security+** – Oct 2025  
+- **Red Hat Certified Engineer (RHCE)** — *scheduled Nov 2025*  
 - **Harvard/edX CS50x — Introduction to Computer Science** — Jun 2023
 
 ---

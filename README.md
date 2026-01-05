@@ -12,7 +12,7 @@ I design, operate, and maintain reliable Linux and Windows systems with a strong
 
 - **[CompTIA Security+](https://www.credly.com/badges/340900fd-c831-40ff-b77b-65e23535eb23/public_url)** — *Security Fundamentals & Best Practices* 
 - **[RHCSA](https://www.credly.com/badges/0e77df5b-dc66-4aa5-a90d-49e718859c0c/public_url)** — *Red Hat Certified System Administrator* 
-- **RHCE** — *In Progress (Ansible automation & networking)*
+- **CCNA** — *In Progress*
 - **[CS50x](https://cs50.harvard.edu/certificates/22e75e98-1ac4-463f-bbeb-bfa430a179f3)** — *2023*
 - **Homelab:** Proxmox-based environment simulating production workloads (Windows AD, Linux servers, DNS, reverse proxy, monitoring, backups)  
 - Hands-on experience operating **Nginx, TLS/PKI, DNS, firewalls, system monitoring, and backup strategies**  
@@ -34,7 +34,7 @@ I design, operate, and maintain reliable Linux and Windows systems with a strong
 **Core Services & Networking**
 - Active Directory (AD DS)
 - DNS, reverse proxy (Nginx)
-- TLS / PKI (Certbot)
+- TLS / PKI
 - Firewalling, Fail2ban
 
 **Automation & Configuration**
@@ -69,15 +69,9 @@ I design, operate, and maintain reliable Linux and Windows systems with a strong
 
 ---
 
-## What I’m Working On
-
-Currently I'm Prepping for **RHCE** (focus: Ansible automation & networking) and constantly working on my homelab
-
----
-
 ## Current Focus
 
-- Preparing for **RHCE**, with emphasis on Ansible-driven configuration management  
+- Preparing for **CCNA**  
 - Expanding homelab with additional failure scenarios, monitoring alerts, and recovery testing
 
 ---
